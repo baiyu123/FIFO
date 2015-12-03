@@ -1,0 +1,132 @@
+// comments
+// team name has - before it
+// the rest of the lines are players
+// name position defending, passing, dribbling, shooting, speed, strength 
+// for goalkeeper, only have defense, speed, and pass (defense is for when opponent dribbles into gk, speed is gk's ability)
+-Nagoya Grampus All Stars
+Eiji Kawashima GK 60 65 40
+Seigo Narazaki GK 56 60 45
+Marcus Tulio Tanaka DF 80 60 60 78 60 85
+Carlos Torres DF 68 40 40 45 70 80
+Maya Yoshida DF 75 70 48 30 67 76
+Go Ooiwa DF 64 30 37 20 55 70
+Keisuke Honda MF 70 88 74 85 60 85
+Tetsuya Okayama MF 60 78 85 45 73 50
+Naoshi Nakamura MF 65 70 65 64 59 53
+Motohiro Yamaguchi MF 74 64 53 47 68 74
+Gary Lineker FW 34 67 87 93 87 72
+Dragon Stojkovic FW 44 68 87 85 77 75
+Joshua Kennedy FW 40 47 60 75 62 98
+Keiji Tamada FW 65 67 80 76 75 50
+// name position defending, passing, dribbling, shooting, speed, strength 
+-Barcelona
+Claudio Bravo GK 64 86 65
+Marc-Andre ter Stegen GK 78 82 70
+Gerard Pique DF 92 80 54 43 75 82
+Javier Mascherano DF 86 82 67 65 70 72
+Jordi Alba DF 80 84 78 68 91 68
+Dani Alves DF 82 83 87 74 89 75
+Ivan Rakitic MF 70 95 73 74 65 63
+Xavi MF 72 98 69 70 74 54
+Andres Iniesta MF 68 97 90 82 80 70
+Sergio Busquets MF 84 90 69 60 70 84
+Lionel Messi FW 43 93 99 91 94 70
+Neymar FW 32 82 99 84 85 74
+Luis Suarez FW 36 64 90 97 95 69
+Munir El Haddadi FW 40 76 80 70 72 50
+
+-Manchester United
+David De Gea GK 100 100 100
+Victor Valdes GK 100 100 100 100 100 100
+Phil Jones DF 100 100 100 100 100 100
+Chris Smalling DF 100 100 100 100 100 100
+Matteo Darmian DF 100 100 100 100 100 100
+Luke Shaw DF 100 100 100 100 100 100
+Michael Carrick MF 100 100 100 100 100 100
+Bastian Schweinsteiger MF 100 100 100 100 100 100
+Juan Matta MF 100 100 100 100 100 100
+Ashley Young MF 100 100 100 100 100 100
+Wayne Rooney FW 100 100 100 100 100 100
+Anothony Martial FW 100 100 100 100 100 100
+Memphis Depay FW 100 100 100 100 100 100
+Marouane Fellaini FW 100 100 100 100 100 100
+
+-Real Madrid
+Keylor Navas GK 50 50 50
+K. Casilla GK 50 50 50
+Marcelo DF 50 50 50 50 50 50
+Varane DF 50 50 50 50 50 50
+Pepe DF 50 50 50 50 50 50
+Sergio Ramos DF 50 50 50 50 50 50
+Toni Kroos MF 50 50 50 50 50 50
+Isco MF 50 50 50 50 50 50
+James Rodriguez MF 50 50 50 50 50 50
+Gareth Bale MF 50 50 50 50 50 50
+Luka Modric MF 50 50 50 50 50 50
+Cristiano Ronaldo FW 50 50 50 50 50 50
+Karim Benzema FW 50 50 50 50 50 50
+Jese Rodriguez FW 50 50 50 50 50 50
+
+-Chelsea
+Thibaut Courtois GK 50 50 50
+Asmir Begovic GK 50 50 50
+Gary Cahill DF 50 50 50 50 50 50
+Branislav Ivanovic DF 50 50 50 50 50 50
+John Terry DF 50 50 50 50 50 50
+Kurt Zouma DF 50 50 50 50 50 50
+Cesc Fabregas MF 50 50 50 50 50 50
+Ramires MF 50 50 50 50 50 50
+Oscar MF 50 50 50 50 50 50
+Eden Hazard MF 50 50 50 50 50 50
+Diego Costa FW 50 50 50 50 50 50
+Pedro FW 50 50 50 50 50 50
+Radamel Falcao FW 50 50 50 50 50 50
+Loic Remy FW 50 50 50 50 50 50
+
+-Arsenal
+Petr Cech GK 50 50 50
+David Ospina GK 50 50 50
+Kieran Gibbs DF 50 50 50 50 50 50
+Per Mertesacker DF 50 50 50 50 50 50
+Laurent Koscielny DF 50 50 50 50 50 50
+Mathieu Debuchy DF 50 50 50 50 50 50
+Jack Wilshere MF 50 50 50 50 50 50
+Mesut Ozil MF 50 50 50 50 50 50
+Alex Oxlade-Chamberlain MF 50 50 50 50 50 50
+Aaron Ramsey MF 50 50 50 50 50 50
+Olivier Giroud FW 50 50 50 50 50 50
+Theo Walcott FW 50 50 50 50 50 50
+Danny Welbeck FW 50 50 50 50 50 50
+Alexis Sanchez FW 50 50 50 50 50 50
+// name position defending, passing, dribbling, shooting, speed, strength
+-Guangzhou Evergrande
+Zeng Cheng GK 50 50 50
+Xinkai Chen GK 50 50 50
+Zhang Linpeng DF 50 50 50 50 50 50
+Kim Young-gwon DF 50 50 50 50 50 50
+Feng Xiaoting DF 50 50 50 50 50 50
+Rong Hao DF 50 50 50 50 50 50
+Paulinho MF 50 50 50 50 50 50
+Zheng Zhi MF 50 50 50 50 50 50
+Huang Bowen MF 50 50 50 50 50 50
+Zhao Xuri MF 50 50 50 50 50 50
+Ricardo Goulart FW 50 50 50 50 50 50
+Gao Lin FW 50 50 50 50 50 50
+Elkson FW 50 50 50 50 50 50
+Robinho FW 50 50 50 50 50 50
+
+-Beijing Guoan
+Yang Zhi GK 100 100 100
+Hou Sen GK 100 100 100
+Xu Yunlong DF 100 100 100 100 100 100
+Lei Tenglong DF 100 100 100 100 100 100
+Zhou Ting DF 100 100 100 100 100 100
+Zhao Hejing DF 100 100 100 100 100 10
+Zhang Xizhe MF 100 100 100 100 100 100
+Pablo Batalla MF 100 100 100 100 100 100
+Ha Dae-Sung MF 100 100 100 100 100 100
+Darko Matic MF 100 100 100 100 100 100
+Dejan Damjanovic FW 100 100 100 100 100 100
+Kleber FW 100 100 100 100 100 100
+Yu Dabao FW 100 100 100 100 100 100
+Shao Jiayi FW 100 100 100 100 100 100

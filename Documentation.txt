@@ -1,0 +1,18 @@
+//CLIENT
+ClientWindow is the top-most JFrame.
+Everything window-related goes here(setting full screen, etc)
+
+There is a ClientPanels panel inside the window.
+This has all other panels as instances, and shifts between each one.
+(See the demo for assignment 3 for specifics)
+
+StartScreen is the first screen.
+Its functionality is only to let the user go to MainMenu.
+
+MainMenu is the main menu where users can choose between friendly and competitive games.
+
+//LIBRARY
+ProjectFonts stores the fonts used in the project.
+Call ProjectFonts.set..Font(Component) to set font.
+
+ImageLibrary renders image urls.
